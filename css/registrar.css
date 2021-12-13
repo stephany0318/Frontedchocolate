@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fafaf9e8;
+    background-image: url("Logochocolate.PNG"),url("fondo.jpg");
+    background-position:0% 0%,50% 50%;
+    background-size: 222px 108px, 1510px 750px;
+    background-repeat: no-repeat;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 30px;
+    max-width: 600px;
+    height: 520px;
+    border: 1px solid #361902;
+    background-color: #361902;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login
+    .container
+    #login-row
+    #login-column
+    #login-box
+    #login-form
+    #register-link {
+    margin-top: -85px;
+  }
+  
